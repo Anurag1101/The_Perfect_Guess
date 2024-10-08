@@ -47,3 +47,15 @@ git clone https://github.com/Anurag1101/perfectguess.git
 
 Navigate to the project directory:  cd perfectguess
 
+**Features**
+Random number generation for varied gameplay.
+User-friendly prompts and feedback.
+Option to play multiple rounds.
+Simple and easy-to-understand code structure.
+
+**License**
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+Acknowledgments
+Thanks to the Python community for their invaluable resources and support.
+Inspiration drawn from classic number guessing games.
