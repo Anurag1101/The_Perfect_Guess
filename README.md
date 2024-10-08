@@ -36,6 +36,19 @@ The main components of the game logic include:
   - If the guess is too low, the player is prompted to guess higher.
 - **Replay Option**: After a successful guess, the player can choose to play again or exit.
 
+**Features:**
+Random number generation for varied gameplay.
+User-friendly prompts and feedback.
+Option to play multiple rounds.
+Simple and easy-to-understand code structure.
+
+**License:** 
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+**Acknowledgments:** 
+Thanks to the Python community for their invaluable resources and support.
+Inspiration drawn from classic number guessing games.
+
 ## Installation
 
 To run the Perfect Guess game, ensure you have Python installed on your system. You can download Python from [python.org](https://www.python.org/downloads/).
@@ -47,15 +60,3 @@ git clone https://github.com/Anurag1101/perfectguess.git
 
 Navigate to the project directory:  cd perfectguess
 
-Features:
-Random number generation for varied gameplay.
-User-friendly prompts and feedback.
-Option to play multiple rounds.
-Simple and easy-to-understand code structure.
-
-License: 
-This project is licensed under the MIT License. See the LICENSE file for details.
-
-Acknowledgments: 
-Thanks to the Python community for their invaluable resources and support.
-Inspiration drawn from classic number guessing games.
