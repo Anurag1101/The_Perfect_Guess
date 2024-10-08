@@ -45,3 +45,5 @@ Once Python is installed, you can clone this repository using the following comm
 ```bash
 git clone https://github.com/Anurag1101/perfectguess.git
 
+Navigate to the project directory:  cd perfectguess
+
