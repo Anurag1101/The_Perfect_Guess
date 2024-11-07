@@ -38,23 +38,13 @@ The main components of the game logic include:
 
 **Features:**
 
-Random number generation for varied gameplay.
+- Random number generation for varied gameplay.
 
-User-friendly prompts and feedback.
+- User-friendly prompts and feedback.
 
-Option to play multiple rounds.
+- Option to play multiple rounds.
 
-Simple and easy-to-understand code structure.
-
-**License:** 
-
-This project is licensed under the MIT License. See the LICENSE file for details.
-
-**Acknowledgments:** 
-
-Thanks to the Python community for their invaluable resources and support.
-
-Inspiration drawn from classic number guessing games.
+- Simple and easy-to-understand code structure.
 
 ## Installation
 
@@ -62,8 +52,18 @@ To run the Perfect Guess game, ensure you have Python installed on your system. 
 
 Once Python is installed, you can clone this repository using the following command:
 
-```bash
-git clone https://github.com/Anurag1101/perfectguess.git
+    git clone https://github.com/Anurag1101/perfectguess.git
 
-Navigate to the project directory:  cd perfectguess
+    Navigate to the project directory:  cd perfectguess
+
+## Acknowledgments:
+
+Thanks to the Python community for their invaluable resources and support.
+
+Inspiration drawn from classic number guessing games.
+
+## License:
+
+This project is licensed under the `MIT License`. See the LICENSE file for details.
+
 
