@@ -30,10 +30,14 @@ The Perfect Guess game generates a random number between 1 and 100, and the play
 The main components of the game logic include:
 
 - **Random Number Generation**: The game uses Python's `random` library to generate a number between 1 and 100.
+  
 - **Guessing Loop**: A loop continues until the player guesses the correct number or chooses to stop playing.
+  
 - **Feedback System**: After each guess, the game provides feedback:
+  
   - If the guess is too high, the player is prompted to guess lower.
   - If the guess is too low, the player is prompted to guess higher.
+
 - **Replay Option**: After a successful guess, the player can choose to play again or exit.
 
 **Features:**
